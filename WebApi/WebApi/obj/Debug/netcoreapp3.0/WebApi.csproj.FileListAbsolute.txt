@@ -1,0 +1,17 @@
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\WebApi.exe
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\WebApi.deps.json
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.json
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.dev.json
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\WebApi.dll
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\bin\Debug\netcoreapp3.0\WebApi.pdb
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\obj\Debug\netcoreapp3.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfoInputs.cache
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfo.cs
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\obj\Debug\netcoreapp3.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\obj\Debug\netcoreapp3.0\WebApi.dll
+D:\Renato\GitHub\SignalR-Angular\WebApi\WebApi\obj\Debug\netcoreapp3.0\WebApi.pdb
